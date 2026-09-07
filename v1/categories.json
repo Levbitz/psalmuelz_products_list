@@ -1,0 +1,56 @@
+ [
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Electronic devices and accessories",
+      "image": "https://example.com/electronics.jpg",
+      "status": "active",
+      "subcategories": [
+        {
+          "id": "smartphones",
+          "name": "Smartphones",
+          "slug": "smartphones"
+        },
+        {
+          "id": "laptops",
+          "name": "Laptops",
+          "slug": "laptops"
+        },
+        {
+          "id": "televisions",
+          "name": "Televisions",
+          "slug": "televisions"
+        }
+      ],
+      "created_at": "2026-09-07T10:00:00Z",
+      "updated_at": "2026-09-07T10:00:00Z"
+    },
+    {
+      "id": "fashion",
+      "name": "Fashion",
+      "slug": "fashion",
+      "description": "Clothing, shoes and fashion accessories",
+      "image": "https://example.com/fashion.jpg",
+      "status": "active",
+      "subcategories": [
+        {
+          "id": "mens-clothing",
+          "name": "Men's Clothing",
+          "slug": "mens-clothing"
+        },
+        {
+          "id": "womens-clothing",
+          "name": "Women's Clothing",
+          "slug": "womens-clothing"
+        },
+        {
+          "id": "shoes",
+          "name": "Shoes",
+          "slug": "shoes"
+        }
+      ],
+      "created_at": "2026-09-07T10:00:00Z",
+      "updated_at": "2026-09-07T10:00:00Z"
+    }
+  ]

@@ -1,6 +1,80 @@
 [
   {
-    "id":"samsung a02 core",
-    "title":"Sumsung A02 "
-  }
+    "id": "iphone-15-pro-max-256gb",
+    "sku": "APL-IP15PM-256-BLK",
+    "title": "iPhone 15 Pro Max",
+    "slug": "iphone-15-pro-max",
+    "description": "Apple iPhone 15 Pro Max with 256GB storage.",
+
+    "brand": "Apple",
+    "category": "Phones",
+    "subcategory": "Smartphones",
+
+    "price": 4200000,
+    "compare_at_price": 4500000,
+    "currency": "UGX",
+    "discount": 7,
+
+    "stock": 12,
+    "status": "active",
+
+    "condition": "new",
+    "availability": "in_stock",
+
+    "images": [
+      "https://example.com/iphone-front.jpg",
+      "https://example.com/iphone-back.jpg"
+    ],
+    "thumbnail": "https://example.com/iphone-thumb.jpg",
+
+    "rating": 4.8,
+    "review_count": 125,
+
+    "tags": [
+      "iphone",
+      "apple",
+      "smartphone",
+      "5g"
+    ],
+
+    "attributes": {
+      "color": "Black Titanium",
+      "storage": "256GB",
+      "ram": "8GB",
+      "screen_size": "6.7 inches",
+      "battery": "4441 mAh"
+    },
+
+    "variants": [
+      {
+        "id": "black-256",
+        "name": "Black Titanium / 256GB",
+        "price": 4200000,
+        "stock": 5
+      },
+      {
+        "id": "blue-256",
+        "name": "Blue Titanium / 256GB",
+        "price": 4200000,
+        "stock": 7
+      }
+    ],
+
+    "seller": {
+      "id": "seller_123"
+    },
+
+    "shipping": {
+      "weight": 0.221,
+      "free_shipping": false
+    },
+
+    "seo": {
+      "meta_title": "iPhone 15 Pro Max 256GB",
+      "meta_description": "Buy iPhone 15 Pro Max 256GB..."
+    },
+
+    "created_at": "2026-09-07T10:00:00Z",
+    "updated_at": "2026-09-07T10:00:00Z"
+  },
 ]
