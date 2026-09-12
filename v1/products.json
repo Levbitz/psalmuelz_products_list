@@ -22,10 +22,11 @@
     "availability": "in_stock",
 
     "images": [
-      "https://example.com/iphone-front.jpg",
-      "https://example.com/iphone-back.jpg"
+      "https://psalmuelz-products.netlify.app/images/phones/samsung/Samsung_%20Galaxy_Note_9/1.jpg",
+      "https://psalmuelz-products.netlify.app/images/phones/samsung/Samsung_%20Galaxy_Note_9/2.jpg",
+      "https://psalmuelz-products.netlify.app/images/phones/samsung/Samsung_%20Galaxy_Note_9/2.jpg"
     ],
-    "thumbnail": "https://example.com/iphone-thumb.jpg",
+    "thumbnail": "https://psalmuelz-products.netlify.app/images/phones/samsung/Samsung_%20Galaxy_Note_9/2.jpg",
 
     "rating": 4.8,
     "review_count": 125,
