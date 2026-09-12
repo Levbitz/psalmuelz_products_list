@@ -1,37 +1,36 @@
  [
     {
-      "id": "electronics",
-      "name": "Electronics",
-      "slug": "electronics",
-      "description": "Electronic devices and accessories",
-      "image": "https://example.com/electronics.jpg",
+      "id": "phones",
+      "name": "Phones",
+      "slug": "Phones",
+      "description": "Iphones ,Android and button phones",
+      "image": "https://psalmuelz-products.netlify.app/images/categories/phones.png",
       "status": "active",
       "subcategories": [
         {
-          "id": "smartphones",
-          "name": "Smartphones",
-          "slug": "smartphones"
+          "id": "iphone",
+          "name": "Iphone",
+          "slug": "iphone"
         },
         {
-          "id": "laptops",
-          "name": "Laptops",
-          "slug": "laptops"
+          "id": "Android",
+          "name": "Android",
+          "slug": "Android"
         },
         {
-          "id": "televisions",
-          "name": "Televisions",
-          "slug": "televisions"
+          "id": "Button Phones",
+          "name": "Button Phones",
+          "slug": "Button Phones"
         }
-      ],
-      "created_at": "2026-09-07T10:00:00Z",
-      "updated_at": "2026-09-07T10:00:00Z"
+      ]
+
     },
     {
       "id": "fashion",
       "name": "Fashion",
       "slug": "fashion",
       "description": "Clothing, shoes and fashion accessories",
-      "image": "https://example.com/fashion.jpg",
+      "image": "https://psalmuelz-products.netlify.app/images/categories/phones.png",
       "status": "active",
       "subcategories": [
         {
@@ -49,8 +48,6 @@
           "name": "Shoes",
           "slug": "shoes"
         }
-      ],
-      "created_at": "2026-09-07T10:00:00Z",
-      "updated_at": "2026-09-07T10:00:00Z"
+      ]
     }
   ]
