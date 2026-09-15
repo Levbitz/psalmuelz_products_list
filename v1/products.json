@@ -6,7 +6,7 @@
     "title": "Galaxy A20 USB Charging Port Flex Cable Replacement SM-A205U Type C Charger Dock Board Flex Cable",
     "slug": "iphone-15-pro-max",
     "description": "Galaxy A20 USB Charging Port Flex Cable Replacement SM-A205U Type C Charger Dock Board Flex Cable",
-"fresh_arrival":true,
+
     "brand": "Samsung",
     "category": "Samsung Spare Parts",
     "subcategory": "Samsung Flex Cables",
@@ -82,12 +82,89 @@
     "title": "Replacement Charging Port Board With Headphone Jack For Samsung Galaxy A03 Core",
     "slug": "iphone-15-pro-max",
     "description": "Replacement Charging Port Board With Headphone Jack For Samsung Galaxy A03 Core",
-"fresh_arrival":true,
+
     "brand": "Samsung",
     "category": "Samsung Spare Parts",
     "subcategory": "Samsung Flex Cables",
 
     "price": 6000,
+    "compare_at_price": 8000,
+    "currency": "UGX",
+    "discount": 7,
+
+    "stock": 12,
+    "status": "active",
+
+    "condition": "new",
+    "availability": "in_stock",
+
+    "images": [
+      "https://psalmuelz-products.netlify.app/images/samsung-spare/charging-flex/A03Core/1.jpg",
+      "https://psalmuelz-products.netlify.app/images/samsung-spare/charging-flex/A03Core/2.webp",
+ "https://psalmuelz-products.netlify.app/images/samsung-spare/charging-flex/A03Core/2.webp"
+    ],
+
+
+    "rating": 4.8,
+    "review_count": 125,
+
+    "tags": [
+      "iphone",
+      "apple",
+      "smartphone",
+      "5g"
+    ],
+
+    "attributes": {
+      "color": "Black Titanium",
+      "storage": "256GB",
+      "ram": "8GB",
+      "screen_size": "6.7 inches",
+      "battery": "4441 mAh"
+    },
+
+    "variants": [
+      {
+        "id": "black-256",
+        "name": "Black Titanium / 256GB",
+        "price": 4200000,
+        "stock": 5
+      },
+      {
+        "id": "blue-256",
+        "name": "Blue Titanium / 256GB",
+        "price": 4200000,
+        "stock": 7
+      }
+    ],
+
+    "seller": {
+      "id": "seller_123"
+    },
+
+    "shipping": {
+      "weight": 0.221,
+      "free_shipping": false
+    },
+
+    "seo": {
+      "meta_title": "iPhone 15 Pro Max 256GB",
+      "meta_description": "Buy iPhone 15 Pro Max 256GB..."
+    }
+  },
+  {
+   "trending":true
+    "id": "Tecno-spark-5-(kd7)-charging-dock",
+    "sku": "APL-IP15PM-256-BLK",
+    "title": "Tecno spark 5 (kd7) charging dock",
+    "slug": "iphone-15-pro-max",
+    "description": "USB Charging dock Board Flex Cable For tecno spark 5 USB Charge Charger Port Dock Flex Cable dock",
+"fresh_arrival":true,
+    "brand": "Techno",
+    "category": "Tecno Spare Parts",
+    "subcategory": "Tecno Flex Cables",
+
+    "price": 4000,
     "compare_at_price": 8000,
     "currency": "UGX",
     "discount": 7,
