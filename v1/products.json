@@ -77,6 +77,7 @@
     }
   },
   {
+    "fresh_arrival":true,
     "id": "Galaxy-A03Core-USB-Charging-Port-Flex",
     "sku": "APL-IP15PM-256-BLK",
     "title": "Replacement Charging Port Board With Headphone Jack For Samsung Galaxy A03 Core",
@@ -159,7 +160,7 @@
     "title": "Tecno spark 5 (kd7) charging dock",
     "slug": "iphone-15-pro-max",
     "description": "USB Charging dock Board Flex Cable For tecno spark 5 USB Charge Charger Port Dock Flex Cable dock",
-"fresh_arrival":true,
+
     "brand": "Techno",
     "category": "Tecno Spare Parts",
     "subcategory": "Tecno Flex Cables",
