@@ -26,11 +26,11 @@
 
     },
     {
-      "id": "fashion",
-      "name": "Fashion",
-      "slug": "fashion",
-      "description": "Clothing, shoes and fashion accessories",
-      "image": "https://psalmuelz-products.netlify.app/images/categories/phones.png",
+      "id": "men",
+      "name": "Men",
+      "slug": "men",
+      "description": "Men's clothing, shoes, watches and accessories",
+      "image": "https://psalmuelz-products.netlify.app/images/categories/male-clothes.png",
       "status": "active",
       "subcategories": [
         {
@@ -39,14 +39,73 @@
           "slug": "mens-clothing"
         },
         {
+          "id": "mens-shoes",
+          "name": "Men's Shoes",
+          "slug": "mens-shoes"
+        },
+        {
+          "id": "mens-watches",
+          "name": "Men's Watches",
+          "slug": "mens-watches"
+        },
+        {
+          "id": "mens-accessories",
+          "name": "Men's Accessories",
+          "slug": "mens-accessories"
+        },
+        {
+          "id": "mens-bags",
+          "name": "Men's Bags",
+          "slug": "mens-bags"
+        },
+        {
+          "id": "mens-grooming",
+          "name": "Men's Grooming",
+          "slug": "mens-grooming"
+        }
+      ]
+    },{
+      "id": "women-fashion",
+      "name": "Women Fashion",
+      "slug": "women-fashion",
+      "description": "Women's clothing, shoes, bags and fashion accessories",
+      "image": "https://psalmuelz-products.netlify.app/images/categories/women.png",
+      "status": "active",
+      "subcategories": [
+        {
           "id": "womens-clothing",
           "name": "Women's Clothing",
           "slug": "womens-clothing"
         },
         {
-          "id": "shoes",
-          "name": "Shoes",
-          "slug": "shoes"
+          "id": "womens-shoes",
+          "name": "Women's Shoes",
+          "slug": "womens-shoes"
+        },
+        {
+          "id": "womens-bags",
+          "name": "Women's Bags",
+          "slug": "womens-bags"
+        },
+        {
+          "id": "womens-jewelry",
+          "name": "Jewelry",
+          "slug": "womens-jewelry"
+        },
+        {
+          "id": "womens-watches",
+          "name": "Women's Watches",
+          "slug": "womens-watches"
+        },
+        {
+          "id": "womens-accessories",
+          "name": "Fashion Accessories",
+          "slug": "womens-accessories"
+        },
+        {
+          "id": "womens-beauty",
+          "name": "Beauty & Cosmetics",
+          "slug": "womens-beauty"
         }
       ]
     }
