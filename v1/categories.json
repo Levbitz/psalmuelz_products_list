@@ -69,7 +69,7 @@
       "name": "Women Fashion",
       "slug": "women-fashion",
       "description": "Women's clothing, shoes, bags and fashion accessories",
-      "image": "https://psalmuelz-products.netlify.app/images/categories/women.png",
+      "image": "https://psalmuelz-products.netlify.app/images/categories/woman.png",
       "status": "active",
       "subcategories": [
         {
@@ -161,6 +161,306 @@
           "id": "kids-care",
           "name": "Baby Care",
           "slug": "kids-care"
+        }
+      ]
+    },
+    {
+      "id": "samsung-spare-parts",
+      "name": "Samsung Spare Parts",
+      "slug": "samsung-spare-parts",
+      "description": "Samsung phone replacement screens, switches, flex cables and spare parts",
+      "image": "https://psalmuelz-products.netlify.app/images/categories/samsung_spare.webp",
+      "status": "active",
+      "subcategories": [
+        {
+          "id": "samsung-screens",
+          "name": "Samsung Screens",
+          "slug": "samsung-screens"
+        },
+        {
+          "id": "samsung-touch-screens",
+          "name": "Samsung Touch Screens",
+          "slug": "samsung-touch-screens"
+        },
+        {
+          "id": "samsung-lcd-displays",
+          "name": "Samsung LCD Displays",
+          "slug": "samsung-lcd-displays"
+        },
+        {
+          "id": "samsung-amoled-displays",
+          "name": "Samsung AMOLED Displays",
+          "slug": "samsung-amoled-displays"
+        },
+        {
+          "id": "samsung-power-switches",
+          "name": "Samsung Power Switches",
+          "slug": "samsung-power-switches"
+        },
+        {
+          "id": "samsung-volume-switches",
+          "name": "Samsung Volume Switches",
+          "slug": "samsung-volume-switches"
+        },
+        {
+          "id": "samsung-flex-cables",
+          "name": "Samsung Flex Cables",
+          "slug": "samsung-flex-cables"
+        },
+        {
+          "id": "samsung-charging-flex",
+          "name": "Samsung Charging Flex",
+          "slug": "samsung-charging-flex"
+        },
+        {
+          "id": "samsung-power-flex",
+          "name": "Samsung Power Flex",
+          "slug": "samsung-power-flex"
+        },
+        {
+          "id": "samsung-volume-flex",
+          "name": "Samsung Volume Flex",
+          "slug": "samsung-volume-flex"
+        },
+        {
+          "id": "samsung-home-buttons",
+          "name": "Samsung Home Buttons",
+          "slug": "samsung-home-buttons"
+        },
+        {
+          "id": "samsung-batteries",
+          "name": "Samsung Batteries",
+          "slug": "samsung-batteries"
+        },
+        {
+          "id": "samsung-charging-ports",
+          "name": "Samsung Charging Ports",
+          "slug": "samsung-charging-ports"
+        },
+        {
+          "id": "samsung-speakers",
+          "name": "Samsung Speakers",
+          "slug": "samsung-speakers"
+        },
+        {
+          "id": "samsung-microphones",
+          "name": "Samsung Microphones",
+          "slug": "samsung-microphones"
+        },
+        {
+          "id": "samsung-camera-parts",
+          "name": "Samsung Camera Parts",
+          "slug": "samsung-camera-parts"
+        },
+        {
+          "id": "samsung-back-covers",
+          "name": "Samsung Back Covers",
+          "slug": "samsung-back-covers"
+        },
+        {
+          "id": "samsung-sim-trays",
+          "name": "Samsung SIM Trays",
+          "slug": "samsung-sim-trays"
+        },
+        {
+          "id": "samsung-small-parts",
+          "name": "Samsung Small Parts",
+          "slug": "samsung-small-parts"
+        }
+      ]
+    },
+    {
+      "id": "tecno-spare-parts",
+      "name": "Tecno Spare Parts",
+      "slug": "tecno-spare-parts",
+      "description": "Tecno phone replacement screens, switches, flex cables, batteries and spare parts",
+      "image": "https://psalmuelz-products.netlify.app/images/categories/tecno-spare.jpeg",
+      "status": "active",
+      "subcategories": [
+        {
+          "id": "tecno-screens",
+          "name": "Tecno Screens",
+          "slug": "tecno-screens"
+        },
+        {
+          "id": "tecno-touch-screens",
+          "name": "Tecno Touch Screens",
+          "slug": "tecno-touch-screens"
+        },
+        {
+          "id": "tecno-lcd-displays",
+          "name": "Tecno LCD Displays",
+          "slug": "tecno-lcd-displays"
+        },
+        {
+          "id": "tecno-power-switches",
+          "name": "Tecno Power Switches",
+          "slug": "tecno-power-switches"
+        },
+        {
+          "id": "tecno-volume-switches",
+          "name": "Tecno Volume Switches",
+          "slug": "tecno-volume-switches"
+        },
+        {
+          "id": "tecno-flex-cables",
+          "name": "Tecno Flex Cables",
+          "slug": "tecno-flex-cables"
+        },
+        {
+          "id": "tecno-charging-flex",
+          "name": "Tecno Charging Flex",
+          "slug": "tecno-charging-flex"
+        },
+        {
+          "id": "tecno-power-flex",
+          "name": "Tecno Power Flex",
+          "slug": "tecno-power-flex"
+        },
+        {
+          "id": "tecno-volume-flex",
+          "name": "Tecno Volume Flex",
+          "slug": "tecno-volume-flex"
+        },
+        {
+          "id": "tecno-charging-ports",
+          "name": "Tecno Charging Ports",
+          "slug": "tecno-charging-ports"
+        },
+        {
+          "id": "tecno-batteries",
+          "name": "Tecno Batteries",
+          "slug": "tecno-batteries"
+        },
+        {
+          "id": "tecno-back-covers",
+          "name": "Tecno Back Covers",
+          "slug": "tecno-back-covers"
+        },
+        {
+          "id": "tecno-camera-parts",
+          "name": "Tecno Camera Parts",
+          "slug": "tecno-camera-parts"
+        },
+        {
+          "id": "tecno-speakers",
+          "name": "Tecno Speakers",
+          "slug": "tecno-speakers"
+        },
+        {
+          "id": "tecno-microphones",
+          "name": "Tecno Microphones",
+          "slug": "tecno-microphones"
+        },
+        {
+          "id": "tecno-sim-trays",
+          "name": "Tecno SIM Trays",
+          "slug": "tecno-sim-trays"
+        },
+        {
+          "id": "tecno-small-parts",
+          "name": "Tecno Small Parts",
+          "slug": "tecno-small-parts"
+        }
+      ]
+    },
+    {
+      "id": "infinix-spare-parts",
+      "name": "Infinix Spare Parts",
+      "slug": "infinix-spare-parts",
+      "description": "Infinix phone replacement screens, switches, flex cables, batteries and spare parts",
+      "image": "https://psalmuelz-products.netlify.app/images/categories/infinix-spare.webp",
+      "status": "active",
+      "subcategories": [
+        {
+          "id": "infinix-screens",
+          "name": "Infinix Screens",
+          "slug": "infinix-screens"
+        },
+        {
+          "id": "infinix-touch-screens",
+          "name": "Infinix Touch Screens",
+          "slug": "infinix-touch-screens"
+        },
+        {
+          "id": "infinix-lcd-displays",
+          "name": "Infinix LCD Displays",
+          "slug": "infinix-lcd-displays"
+        },
+        {
+          "id": "infinix-amoled-displays",
+          "name": "Infinix AMOLED Displays",
+          "slug": "infinix-amoled-displays"
+        },
+        {
+          "id": "infinix-power-switches",
+          "name": "Infinix Power Switches",
+          "slug": "infinix-power-switches"
+        },
+        {
+          "id": "infinix-volume-switches",
+          "name": "Infinix Volume Switches",
+          "slug": "infinix-volume-switches"
+        },
+        {
+          "id": "infinix-flex-cables",
+          "name": "Infinix Flex Cables",
+          "slug": "infinix-flex-cables"
+        },
+        {
+          "id": "infinix-charging-flex",
+          "name": "Infinix Charging Flex",
+          "slug": "infinix-charging-flex"
+        },
+        {
+          "id": "infinix-power-flex",
+          "name": "Infinix Power Flex",
+          "slug": "infinix-power-flex"
+        },
+        {
+          "id": "infinix-volume-flex",
+          "name": "Infinix Volume Flex",
+          "slug": "infinix-volume-flex"
+        },
+        {
+          "id": "infinix-charging-ports",
+          "name": "Infinix Charging Ports",
+          "slug": "infinix-charging-ports"
+        },
+        {
+          "id": "infinix-batteries",
+          "name": "Infinix Batteries",
+          "slug": "infinix-batteries"
+        },
+        {
+          "id": "infinix-back-covers",
+          "name": "Infinix Back Covers",
+          "slug": "infinix-back-covers"
+        },
+        {
+          "id": "infinix-camera-parts",
+          "name": "Infinix Camera Parts",
+          "slug": "infinix-camera-parts"
+        },
+        {
+          "id": "infinix-speakers",
+          "name": "Infinix Speakers",
+          "slug": "infinix-speakers"
+        },
+        {
+          "id": "infinix-microphones",
+          "name": "Infinix Microphones",
+          "slug": "infinix-microphones"
+        },
+        {
+          "id": "infinix-sim-trays",
+          "name": "Infinix SIM Trays",
+          "slug": "infinix-sim-trays"
+        },
+        {
+          "id": "infinix-small-parts",
+          "name": "Infinix Small Parts",
+          "slug": "infinix-small-parts"
         }
       ]
     }
