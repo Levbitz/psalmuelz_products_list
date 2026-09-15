@@ -108,5 +108,60 @@
           "slug": "womens-beauty"
         }
       ]
+    },
+    {
+      "id": "kids",
+      "name": "Kids",
+      "slug": "kids",
+      "description": "Children's clothing, shoes, toys and accessories",
+      "image": "https://psalmuelz-products.netlify.app/images/categories/kids.png",
+      "status": "active",
+      "subcategories": [
+        {
+          "id": "boys-clothing",
+          "name": "Boys' Clothing",
+          "slug": "boys-clothing"
+        },
+        {
+          "id": "girls-clothing",
+          "name": "Girls' Clothing",
+          "slug": "girls-clothing"
+        },
+        {
+          "id": "kids-shoes",
+          "name": "Kids' Shoes",
+          "slug": "kids-shoes"
+        },
+        {
+          "id": "baby-clothing",
+          "name": "Baby Clothing",
+          "slug": "baby-clothing"
+        },
+        {
+          "id": "kids-toys",
+          "name": "Toys & Games",
+          "slug": "kids-toys"
+        },
+        {
+          "id": "school-supplies",
+          "name": "School Supplies",
+          "slug": "school-supplies"
+        },
+        {
+          "id": "kids-bags",
+          "name": "Kids' Bags",
+          "slug": "kids-bags"
+        },
+        {
+          "id": "kids-accessories",
+          "name": "Kids' Accessories",
+          "slug": "kids-accessories"
+        },
+        {
+          "id": "kids-care",
+          "name": "Baby Care",
+          "slug": "kids-care"
+        }
+      ]
     }
   ]
